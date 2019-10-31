@@ -1,0 +1,2 @@
+https://pysource.com/2018/07/19/check-if-two-images-are-equal-with-opencv-and-python/
+https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
